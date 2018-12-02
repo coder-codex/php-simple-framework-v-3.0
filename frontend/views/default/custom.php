@@ -1,0 +1,1 @@
+alias frontend / controller default / action custom / view custom

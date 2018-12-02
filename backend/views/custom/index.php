@@ -1,0 +1,1 @@
+alias backend / controller custom / action index / view index
